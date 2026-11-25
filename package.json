@@ -1,0 +1,1 @@
+{"description":"The most creative excuse a hardware wallet gives for refusing to sign a transaction at 3 AM — make.fun bounty entry","engines":{"node":">=22.18"},"license":"MIT","name":"3am-excuse-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
